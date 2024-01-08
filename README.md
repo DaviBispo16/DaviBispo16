@@ -1,7 +1,6 @@
 # Olá, eu sou o Davi!  
 
 - :computer: Desenvolvedor
-- :open_book: Aluno na Cubos Academy
 - :mortar_board: Bacharelado em Sistemas de Informação
 
 <div>
