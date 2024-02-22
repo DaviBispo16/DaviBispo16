@@ -1,7 +1,7 @@
 # Olá, eu sou o Davi!  
 
 - :computer: Desenvolvedor
-- :mortar_board: Bacharelado em Sistemas de Informação
+- :mortar_board: Bacharelando em Sistemas de Informação
 
 <div>
   <a href="https://www.linkedin.com/in/odavibispo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
