@@ -4,10 +4,25 @@ Linguagens & Tecnologias: `Javascript`, `Typescript`, `Java`, `Node.js`, `Postgr
 
 DevOps: `AWS`, `Docker`, `Terraform`, `CI/CD`, `GitActions`
 
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBispo16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="center"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=DaviBispo16&theme=tokyonight&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=DaviBispo16&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBispo16&theme=tokyonight" alt="Top Langs" />
-</p>
 
 
