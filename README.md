@@ -1,6 +1,6 @@
 # Olá meu nome é Davi
 
-Linguagens & Tecnologias: `Javascript`, `Typescript`, `Java`, `Node.js`, `PostgreSQL`
+Linguagens & Tecnologias: `Javascript`, `Typescript`, `Java`, `Node.js`, `SpringBoot`, `PostgreSQL`
 
 DevOps: `AWS`, `Docker`, `Terraform`, `CI/CD`, `GitActions`
 
